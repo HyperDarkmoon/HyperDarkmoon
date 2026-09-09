@@ -8,7 +8,7 @@
 A software engineer. · A backend engineer. · A Flutter developer.
 </samp>
 
-<samp style="font-family:monospace;color:#A78BFA">sapere aude — [ mobile · backend · cloud ]</samp>
+<samp style="font-family:monospace;color:#A78BFA">— [ mobile · backend · cloud ]</samp>
 
 `◆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◆`
 
@@ -117,9 +117,11 @@ I've shipped **17+ projects** and **8+ mobile apps** — from encrypted-journali
 
 <!-- stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HyperDarkmoon&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=0B0A0F&title_color=A78BFA&icon_color=A78BFA&text_color=E7E5E4" alt="GitHub stats" width="400" />
+  <img src="https://img.shields.io/github/followers/HyperDarkmoon?style=for-the-badge&logo=github&color=A78BFA&label=Followers" alt="Followers" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HyperDarkmoon&layout=compact&hide_title=true&hide_border=true&bg_color=0B0A0F&title_color=A78BFA&icon_color=A78BFA&text_color=E7E5E4" alt="Top languages" width="400" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHyperDarkmoon&query=public_repos&label=Repos&style=for-the-badge&color=A78BFA" alt="Repos" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/HyperDarkmoon?style=for-the-badge&logo=github&color=A78BFA&label=Stars" alt="Stars" />
 </p>
 <!-- stats -->
 

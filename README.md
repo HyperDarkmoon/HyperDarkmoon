@@ -8,9 +8,7 @@
 A software engineer. · A backend engineer. · A Flutter developer.
 </samp>
 
-`sapere aude — student @ ESPRIT · open to a pre-employment end-of-studies internship`
-
-**`[ cloud-native · flutter & dart · data-driven ]`**
+`sapere aude — [ cloud · backend · flutter ]`
 
 `◆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◆`
 
@@ -22,7 +20,7 @@ A software engineer. · A backend engineer. · A Flutter developer.
 
 **`> intro.txt`**
 
-Software engineering student with a mobile-first focus and a backend-minded approach — Flutter & Dart apps powered by real APIs, databases, and clean architecture, not just pretty screens. I design the data model, build the APIs, and ship the whole experience for every screen size.
+Mobile-first software engineer with a backend-minded approach — Flutter & Dart apps powered by real APIs, databases, and clean architecture, not just pretty screens. I design the data model, build the APIs, ship the microservices, and ship the whole experience for every screen size.
 
 I've shipped **17+ projects** and **8+ mobile apps** — from encrypted-journaling and AI news pipelines to a Bluetooth-connected driving companion.
 
@@ -107,8 +105,6 @@ I've shipped **17+ projects** and **8+ mobile apps** — from encrypted-journali
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chedly-badri)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyperdarkmoon)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chedlyazizbadri@gmail.com)
-
-**interested in a pre-employment internship or a great software project? let's talk.**
 
 </samp>
 
